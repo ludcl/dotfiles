@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =8
+let g:netrw_dirhist_8='/Users/ludcl/Sites/doite.cl/src/app/i18n/magento2translations/language_es_ar'
+let g:netrw_dirhist_7='/Users/ludcl/Sites/houseofelectrical.com/src/app/code/Lesite/SuccessAnalytics/view/frontend/templates/html'
+let g:netrw_dirhist_6='/Users/ludcl/Sites/houseofelectrical.com/src/app/code/Lesite/SuccessAnalytics/view/frontend/templates'
+let g:netrw_dirhist_5='/Users/ludcl/Sites/houseofelectrical.com/src/app/code/Lesite/SuccessAnalytics/view/frontend'
+let g:netrw_dirhist_4='/Users/ludcl/Sites/houseofelectrical.com/src/app/code/Lesite/SuccessAnalytics/view'
+let g:netrw_dirhist_3='/Users/ludcl/Sites/houseofelectrical.com/src/app/code/Lesite/SuccessAnalytics'
+let g:netrw_dirhist_2='/Users/ludcl/Sites/houseofelectrical.com/images/php/conf'
+let g:netrw_dirhist_1='/Users/ludcl/Sites/houseofelectrical.com/images/php'
